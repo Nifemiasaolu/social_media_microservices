@@ -1,0 +1,692 @@
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T18:21:06.975Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T18:21:17.058Z"}
+{"level":"info","message":"::: Post created successfully: [{\n  user: new ObjectId('7a7d813264bcfbd4a6d9150e'),\n  content: 'This is my first post',\n  mediaIds: [ 'sample media Id' ],\n  _id: new ObjectId('68f1492c75e1ee1c88a90ecd'),\n  createdAt: 2025-10-16T19:36:12.527Z,\n  updatedAt: 2025-10-16T19:36:12.527Z,\n  __v: 0\n}] :::","service":"post-service","timestamp":"2025-10-16T19:36:12.759Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T19:40:33.214Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T19:40:40.018Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T19:43:33.536Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T19:43:42.829Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T19:44:20.781Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T19:44:31.622Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T19:44:48.744Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T19:44:54.868Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T19:44:57.696Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T19:45:26.512Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T19:45:35.183Z"}
+{"level":"info","message":"::: Post created successfully: [{\n  user: new ObjectId('7a7d813264bcfbd4a6d9150e'),\n  content: 'Just another post by me',\n  mediaIds: [ 'Another media ids' ],\n  _id: new ObjectId('68f14c7e0a66c4f1356d799c'),\n  createdAt: 2025-10-16T19:50:22.800Z,\n  updatedAt: 2025-10-16T19:50:22.800Z,\n  __v: 0\n}] :::","service":"post-service","timestamp":"2025-10-16T19:50:23.468Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T19:51:40.212Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T19:51:48.961Z"}
+{"level":"info","message":"::: Post created successfully: [{\n  user: new ObjectId('7a7d813264bcfbd4a6d9150e'),\n  content: \"I read about Arsene Lupin in french. Currently learning the french language, and it's interesting.\",\n  mediaIds: [],\n  _id: new ObjectId('68f14e1788a761f667cb6fa3'),\n  createdAt: 2025-10-16T19:57:11.501Z,\n  updatedAt: 2025-10-16T19:57:11.501Z,\n  __v: 0\n}] :::","service":"post-service","timestamp":"2025-10-16T19:57:11.876Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T19:58:40.968Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T19:58:49.541Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:02:24.632Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:02:34.883Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:07:37.893Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:07:46.785Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:07:48.502Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:08:48.472Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:08:57.964Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:09:24.046Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:09:31.189Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:09:57.940Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:10:05.840Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:10:56.435Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:11:03.663Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:13:24.322Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:13:34.460Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:13:58.899Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:14:06.142Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:14:43.525Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:14:51.990Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:15:05.505Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:15:51.205Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:16:09.834Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:16:42.768Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:16:49.583Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:17:27.831Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:17:41.281Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:17:45.576Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:18:15.828Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:18:38.271Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:18:40.158Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:18:52.857Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:19:02.705Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:23:30.678Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:23:39.528Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:23:48.098Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:23:51.131Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:26:29.353Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:26:38.667Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:29:19.805Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:29:28.041Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:31:45.716Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:31:57.360Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:31:59.046Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:32:07.475Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:32:09.376Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:32:46.748Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:32:59.198Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:33:01.478Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:33:07.235Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:33:08.984Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:34:12.358Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:34:24.209Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:34:32.296Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:34:42.466Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:35:10.037Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:35:17.046Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:35:26.909Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:35:37.829Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:35:39.689Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:36:05.839Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:36:12.848Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:36:53.826Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:37:06.982Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:37:17.003Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:46:24.404Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:46:32.719Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:47:26.390Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:47:32.813Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:47:37.418Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:48:27.666Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:48:37.706Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:49:08.271Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:49:15.125Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:50:50.535Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:50:59.334Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:51:44.957Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:51:51.824Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:52:41.672Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:52:58.803Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:53:48.942Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:53:55.861Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:54:34.045Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:54:42.501Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:54:49.392Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:54:51.423Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:55:14.202Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:55:21.792Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:55:50.065Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:55:58.166Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:57:48.444Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:57:55.661Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:57:59.034Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:58:07.207Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:58:10.317Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:59:04.107Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T20:59:14.071Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T20:59:17.094Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:03:07.461Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:03:15.490Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:05:58.417Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:06:07.277Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:06:49.332Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:06:56.436Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:07:09.734Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:07:13.618Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:07:42.811Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:07:47.845Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:07:50.510Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:08:05.381Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:08:59.984Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:09:08.860Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:09:31.945Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:09:38.769Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:09:56.138Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:09:58.109Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:10:02.339Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:10:10.889Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:10:20.988Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:10:24.010Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:10:51.674Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:10:58.503Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:13:20.928Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:13:29.074Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:15:19.571Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:15:29.741Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:16:56.016Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:17:05.465Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:26:21.975Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:26:30.041Z"}
+{"level":"info","message":"::: Post created successfully: [68f1630dade6f6abfd7b5046] :::","service":"post-service","timestamp":"2025-10-16T21:26:38.194Z"}
+{"level":"info","message":"::: Post created successfully: [68f164a2ade6f6abfd7b5048] :::","service":"post-service","timestamp":"2025-10-16T21:33:22.247Z"}
+{"level":"error","message":"::: Failed to fetch all posts with error: TypeError: this.count is not a function","service":"post-service","timestamp":"2025-10-16T21:33:30.293Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:37:21.717Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:37:32.340Z"}
+{"level":"error","message":"::: Failed to fetch all posts with error: CastError: Cast to ObjectId failed for value \"{ userId: '7a7d813264bcfbd4a6d9150e' }\" (type Object) at path \"user\" for model \"post\"","service":"post-service","timestamp":"2025-10-16T21:37:48.292Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:41:33.706Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:41:38.182Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:41:46.869Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:42:32.115Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:42:40.572Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:42:42.674Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:43:52.224Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:44:02.223Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:52:15.565Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:52:25.638Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:52:32.783Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:52:34.724Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:53:53.700Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:54:01.743Z"}
+{"level":"error","message":"Cannot set properties of undefined (setting 'userId')","service":"post-service","timestamp":"2025-10-16T21:54:12.053Z"}
+{"level":"error","message":"TypeError: Cannot set properties of undefined (setting 'userId')\n    at authenticateUser (file:///C:/Users/theop/Desktop/BACKEND/social-media-microservices/post-service/src/modules/auth-service.js:16:19)\n    at Layer.handleRequest (C:\\Users\\theop\\Desktop\\BACKEND\\social-media-microservices\\post-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\theop\\Desktop\\BACKEND\\social-media-microservices\\post-service\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\theop\\Desktop\\BACKEND\\social-media-microservices\\post-service\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\theop\\Desktop\\BACKEND\\social-media-microservices\\post-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\theop\\Desktop\\BACKEND\\social-media-microservices\\post-service\\node_modules\\router\\index.js:291:5)\n    at file:///C:/Users/theop/Desktop/BACKEND/social-media-microservices/post-service/src/modules/rate-limiter.js:19:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","service":"post-service","timestamp":"2025-10-16T21:54:12.055Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:55:05.406Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:55:13.656Z"}
+{"level":"error","message":"Cannot set properties of undefined (setting 'userId')","service":"post-service","timestamp":"2025-10-16T21:55:16.666Z"}
+{"level":"error","message":"TypeError: Cannot set properties of undefined (setting 'userId')\n    at authenticateUser (file:///C:/Users/theop/Desktop/BACKEND/social-media-microservices/post-service/src/modules/auth-service.js:16:19)\n    at Layer.handleRequest (C:\\Users\\theop\\Desktop\\BACKEND\\social-media-microservices\\post-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (C:\\Users\\theop\\Desktop\\BACKEND\\social-media-microservices\\post-service\\node_modules\\router\\index.js:342:13)\n    at C:\\Users\\theop\\Desktop\\BACKEND\\social-media-microservices\\post-service\\node_modules\\router\\index.js:297:9\n    at processParams (C:\\Users\\theop\\Desktop\\BACKEND\\social-media-microservices\\post-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\theop\\Desktop\\BACKEND\\social-media-microservices\\post-service\\node_modules\\router\\index.js:291:5)\n    at file:///C:/Users/theop/Desktop/BACKEND/social-media-microservices/post-service/src/modules/rate-limiter.js:19:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","service":"post-service","timestamp":"2025-10-16T21:55:16.669Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:57:05.070Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:57:13.433Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T21:57:54.619Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T21:58:03.585Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:00:34.046Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:00:42.064Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:09:31.190Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:09:39.721Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:10:02.131Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:10:03.822Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:10:40.936Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:10:49.579Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:11:59.812Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:12:08.728Z"}
+{"level":"error","message":"::: Failed to fetch all posts with error: ReplyError: ERR syntax error","service":"post-service","timestamp":"2025-10-16T22:12:46.966Z"}
+{"level":"error","message":"::: Failed to fetch all posts with error: ReplyError: ERR syntax error","service":"post-service","timestamp":"2025-10-16T22:13:42.324Z"}
+{"level":"info","message":"::: Cleared [7] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-16T22:18:23.616Z"}
+{"level":"info","message":"::: Post created successfully: [68f16f2feca911aa63cd6f58] :::","service":"post-service","timestamp":"2025-10-16T22:18:23.618Z"}
+{"level":"error","message":"::: Failed to fetch all posts with error: ReplyError: ERR syntax error","service":"post-service","timestamp":"2025-10-16T22:19:45.573Z"}
+{"level":"error","message":"::: Failed to fetch all posts with error: ReplyError: ERR syntax error","service":"post-service","timestamp":"2025-10-16T22:20:07.280Z"}
+{"level":"error","message":"::: Failed to fetch all posts with error: ReplyError: ERR syntax error","service":"post-service","timestamp":"2025-10-16T22:22:15.698Z"}
+{"level":"error","message":"::: Failed to fetch all posts with error: ReplyError: ERR syntax error","service":"post-service","timestamp":"2025-10-16T22:22:27.829Z"}
+{"level":"error","message":"::: Failed to fetch all posts with error: ReplyError: ERR syntax error","service":"post-service","timestamp":"2025-10-16T22:23:18.898Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:23:50.488Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:23:58.441Z"}
+{"level":"error","message":"::: Failed to fetch all posts with error: ReplyError: ERR syntax error","service":"post-service","timestamp":"2025-10-16T22:24:03.970Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:25:28.663Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:25:38.899Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:26:36.856Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:26:44.895Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:40:09.415Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:40:18.277Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:41:28.420Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:41:36.720Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:41:55.240Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:41:56.983Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:42:36.217Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:42:47.166Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:42:55.829Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:42:58.341Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:43:43.312Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:43:51.113Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:44:44.166Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:44:52.134Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:45:18.066Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:45:19.902Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:45:25.191Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:45:34.197Z"}
+{"level":"error","message":"::: Failed to fetch post with error: TypeError: cacheKey.set is not a function","service":"post-service","timestamp":"2025-10-16T22:46:38.659Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:47:07.231Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:47:15.325Z"}
+{"level":"error","message":"::: Failed to fetch post with error: SyntaxError: Unexpected token _ in JSON at position 4","service":"post-service","timestamp":"2025-10-16T22:47:29.071Z"}
+{"level":"error","message":"::: Failed to fetch post with error: SyntaxError: Unexpected token _ in JSON at position 4","service":"post-service","timestamp":"2025-10-16T22:47:35.071Z"}
+{"level":"error","message":"::: Failed to fetch post with error: SyntaxError: Unexpected token _ in JSON at position 4","service":"post-service","timestamp":"2025-10-16T22:48:02.075Z"}
+{"level":"error","message":"::: Failed to fetch post with error: CastError: Cast to ObjectId failed for value \":id\" (type string) at path \"_id\" for model \"post\"","service":"post-service","timestamp":"2025-10-16T22:49:13.934Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:50:37.326Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:50:45.124Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:51:19.979Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:51:26.739Z"}
+{"level":"error","message":"::: Failed to fetch post with error: CastError: Cast to ObjectId failed for value \":id\" (type string) at path \"_id\" for model \"post\"","service":"post-service","timestamp":"2025-10-16T22:51:29.909Z"}
+{"level":"error","message":"::: Failed to fetch post with error: SyntaxError: Unexpected token _ in JSON at position 4","service":"post-service","timestamp":"2025-10-16T22:55:17.306Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-16T22:58:34.156Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-16T22:58:43.153Z"}
+{"level":"info","message":"::: Post created successfully: [68f215816b9373dd6f46d803] :::","service":"post-service","timestamp":"2025-10-17T10:08:09.993Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-17T10:08:56.234Z"}
+{"level":"info","message":"::: Post created successfully: [68f215b76b9373dd6f46d807] :::","service":"post-service","timestamp":"2025-10-17T10:08:56.236Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:13:34.632Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:13:42.670Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:14:25.753Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:14:32.651Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:20:36.437Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:20:48.693Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:22:05.746Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:22:15.164Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:23:04.089Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:23:10.977Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:25:32.308Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:25:40.445Z"}
+{"level":"info","message":"::: Post with id [68f215816b9373dd6f46d803] successfully deleted :::","service":"post-service","timestamp":"2025-10-17T10:26:24.130Z"}
+{"level":"error","message":"::: Post not found for id [68f215816b9373dd6f46d803] :::","service":"post-service","timestamp":"2025-10-17T10:27:00.461Z"}
+{"level":"error","message":"::: Failed to fetch post with error: NotFoundError: Post not found","service":"post-service","timestamp":"2025-10-17T10:27:00.464Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:38:57.484Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:39:09.328Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:39:17.559Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:39:24.732Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:39:55.289Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:40:02.157Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:44:29.553Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:44:37.763Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:45:47.189Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:46:06.411Z"}
+{"level":"info","message":"::: Post created successfully: [68f21e90702ac8021e747651] :::","service":"post-service","timestamp":"2025-10-17T10:46:40.196Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:48:49.462Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:48:58.820Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [NA] :::","service":"post-service","timestamp":"2025-10-17T10:49:20.902Z"}
+{"level":"info","message":"::: Post with id [68f215b76b9373dd6f46d807] successfully deleted :::","service":"post-service","timestamp":"2025-10-17T10:49:21.065Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:51:44.591Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:51:53.119Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:52:01.142Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:52:11.039Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:53:13.365Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:53:21.817Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:53:33.248Z"}
+{"level":"info","message":"::: Cleared [5] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-17T10:54:47.205Z"}
+{"level":"info","message":"::: Post created successfully: [68f2207600934e35bb0d3fb1] :::","service":"post-service","timestamp":"2025-10-17T10:54:47.208Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-17T10:56:06.223Z"}
+{"level":"info","message":"::: Post with id [68f164a2ade6f6abfd7b5048] successfully deleted :::","service":"post-service","timestamp":"2025-10-17T10:56:06.421Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:56:43.691Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:56:51.700Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:59:21.995Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T10:59:29.799Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T10:59:40.261Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T11:00:23.185Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T11:00:33.810Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T11:01:12.974Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T11:01:23.380Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-17T11:01:42.029Z"}
+{"level":"info","message":"::: Post with id [68f21e90702ac8021e747651] successfully deleted :::","service":"post-service","timestamp":"2025-10-17T11:01:42.032Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T11:07:53.584Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T11:08:03.556Z"}
+{"level":"error","message":"::: Failed to delete post with error: NotFoundError: Post not found","service":"post-service","timestamp":"2025-10-17T11:08:26.124Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T11:09:39.647Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T11:09:47.824Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T11:09:59.235Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T11:10:01.027Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-17T11:10:07.458Z"}
+{"level":"info","message":"::: Post with id [68f16f2feca911aa63cd6f58] successfully deleted :::","service":"post-service","timestamp":"2025-10-17T11:10:07.481Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-17T12:09:43.299Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-17T12:10:04.282Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-23T12:57:59.284Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-23T12:58:02.759Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-23T13:00:07.090Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-23T13:00:09.246Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-23T13:01:09.791Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-23T13:01:12.379Z"}
+{"level":"error","message":"::: Failed to create post with error: BadRequestError: \"mediaIds\" must be a string","service":"post-service","timestamp":"2025-10-23T14:38:48.137Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-23T14:40:07.233Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-23T14:40:09.601Z"}
+{"level":"info","message":"::: Post created successfully: [68fa3e4ef28ea7c839d47ee1] :::","service":"post-service","timestamp":"2025-10-23T14:40:14.282Z"}
+{"level":"info","message":"::: Post created successfully: [68fa3e98f28ea7c839d47ee3] :::","service":"post-service","timestamp":"2025-10-23T14:41:28.797Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-23T14:44:09.044Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-23T14:44:11.149Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-23T14:44:32.600Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-23T14:44:35.127Z"}
+{"level":"info","message":"::: Post created successfully: [68fa3f68ce071a013e45b30a] :::","service":"post-service","timestamp":"2025-10-23T14:44:56.526Z"}
+{"level":"info","message":"::: Post created successfully: [68fa3f8dce071a013e45b30c] :::","service":"post-service","timestamp":"2025-10-23T14:45:33.839Z"}
+{"level":"info","message":"::: Post created successfully: [68fa3fc0ce071a013e45b30e] :::","service":"post-service","timestamp":"2025-10-23T14:46:24.701Z"}
+{"level":"info","message":"::: Post created successfully: [68fa404ace071a013e45b310] :::","service":"post-service","timestamp":"2025-10-23T14:48:43.019Z"}
+{"level":"info","message":"::: Post created successfully: [68fa406ace071a013e45b312] :::","service":"post-service","timestamp":"2025-10-23T14:49:14.254Z"}
+{"level":"info","message":"::: Post created successfully: [68fa406ece071a013e45b314] :::","service":"post-service","timestamp":"2025-10-23T14:49:19.088Z"}
+{"level":"info","message":"::: Cleared [2] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-23T14:50:45.660Z"}
+{"level":"info","message":"::: Post with id [68fa3fc0ce071a013e45b30e] successfully deleted :::","service":"post-service","timestamp":"2025-10-23T14:50:45.662Z"}
+{"level":"error","message":"::: Failed to delete post with error: NotFoundError: Post not found","service":"post-service","timestamp":"2025-10-23T14:50:56.641Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-23T14:52:01.421Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-23T14:52:03.774Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T18:31:44.312Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T18:31:46.221Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T18:56:56.577Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T18:56:59.263Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T18:58:52.808Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T18:58:55.137Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:01:19.896Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:01:22.307Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:02:00.657Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:02:02.884Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:02:13.304Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:02:15.545Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:03:00.506Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:03:02.967Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:03:24.033Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:03:26.328Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:04:01.644Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:04:03.816Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:04:33.827Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:04:35.942Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:04:46.039Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:04:48.176Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:05:10.381Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:05:13.460Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:08:05.788Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:08:08.083Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:09:20.377Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:09:26.875Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:09:29.136Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:09:35.316Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:09:37.569Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:10:09.935Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:10:13.120Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:10:42.886Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:10:45.073Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:10:49.417Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:10:51.654Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:14:47.063Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T19:14:47.234Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:14:48.949Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:15:13.007Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T19:15:13.093Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:15:15.085Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:40:55.684Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T19:40:55.904Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:40:58.029Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:42:24.539Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T19:42:24.821Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:42:26.715Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:42:45.757Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T19:42:45.934Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:42:48.116Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:45:02.126Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T19:45:02.206Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:45:04.141Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:45:08.080Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T19:45:08.180Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:45:10.024Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:46:15.111Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T19:46:15.216Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:46:17.068Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:46:48.851Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T19:46:48.929Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:46:51.048Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:51:34.800Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T19:51:34.875Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:51:37.079Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:52:18.487Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T19:52:18.571Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:52:21.369Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:53:31.080Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T19:53:31.193Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:53:34.056Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:53:44.443Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T19:53:44.536Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:53:46.689Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T19:54:02.227Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T19:54:02.324Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T19:54:04.376Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T20:41:34.180Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T20:41:34.230Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T20:41:36.662Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T21:07:02.538Z"}
+{"level":"error","message":"::: Failed to delete post with error: TypeError: Cannot read properties of null (reading 'publish')","service":"post-service","timestamp":"2025-10-28T21:07:02.540Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T21:08:03.449Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T21:08:03.538Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T21:08:05.612Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T21:08:13.410Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T21:08:13.519Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T21:08:16.920Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T21:08:17.014Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T21:08:18.825Z"}
+{"level":"error","message":"::: Failed to delete post with error: NotFoundError: Post not found","service":"post-service","timestamp":"2025-10-28T21:08:32.262Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T21:10:25.456Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T21:10:25.906Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T21:10:28.634Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T21:11:23.589Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T21:11:24.091Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T21:11:25.950Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T21:11:46.814Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T21:11:47.213Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T21:11:49.113Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T21:12:24.188Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T21:12:24.312Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T21:12:27.055Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-28T21:12:36.960Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-28T21:13:57.827Z"}
+{"level":"info","message":"::: Post created successfully: [69013215e74f8a1e3b43dbae] :::","service":"post-service","timestamp":"2025-10-28T21:13:57.829Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-28T21:14:07.204Z"}
+{"level":"info","message":"::: Event published: [post.deleted] :::","service":"post-service","timestamp":"2025-10-28T21:14:24.631Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-28T21:14:24.638Z"}
+{"level":"info","message":"::: Post with id [69013215e74f8a1e3b43dbae] successfully deleted :::","service":"post-service","timestamp":"2025-10-28T21:14:24.641Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T21:16:15.662Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T21:16:15.755Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T21:16:17.515Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-28T21:16:37.590Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-28T21:17:46.813Z"}
+{"level":"info","message":"::: Post created successfully: [690132fa3b4caaea7309f814] :::","service":"post-service","timestamp":"2025-10-28T21:17:46.847Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-28T21:18:04.355Z"}
+{"level":"info","message":"::: Event published: [post.deleted] :::","service":"post-service","timestamp":"2025-10-28T21:18:37.014Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-28T21:18:37.017Z"}
+{"level":"info","message":"::: Post with id [690132fa3b4caaea7309f814] successfully deleted :::","service":"post-service","timestamp":"2025-10-28T21:18:37.023Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-28T21:21:30.960Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-28T21:21:31.097Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-28T21:21:33.815Z"}
+{"level":"info","message":"::: Post created successfully: [690139dca7c75fdb77b1cc4a] :::","service":"post-service","timestamp":"2025-10-28T21:47:08.416Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-28T21:47:45.155Z"}
+{"level":"info","message":"::: Event published: [post.deleted] :::","service":"post-service","timestamp":"2025-10-28T21:49:56.062Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-28T21:49:56.069Z"}
+{"level":"info","message":"::: Post with id [690139dca7c75fdb77b1cc4a] successfully deleted :::","service":"post-service","timestamp":"2025-10-28T21:49:56.072Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-28T21:51:49.697Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-28T21:52:13.835Z"}
+{"level":"info","message":"::: Post created successfully: [69013b0da7c75fdb77b1cc51] :::","service":"post-service","timestamp":"2025-10-28T21:52:13.836Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-28T21:52:23.975Z"}
+{"level":"info","message":"::: Event published: [post.deleted] :::","service":"post-service","timestamp":"2025-10-28T21:59:25.339Z"}
+{"level":"info","message":"::: Post with id [69013b0da7c75fdb77b1cc51] successfully deleted :::","service":"post-service","timestamp":"2025-10-28T21:59:25.342Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-28T22:17:03.079Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-28T22:17:32.650Z"}
+{"level":"info","message":"::: Post created successfully: [690140fca7c75fdb77b1cc58] :::","service":"post-service","timestamp":"2025-10-28T22:17:32.651Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-28T22:17:50.275Z"}
+{"level":"info","message":"::: Event published: [post.deleted] :::","service":"post-service","timestamp":"2025-10-28T22:18:09.948Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-28T22:18:09.952Z"}
+{"level":"info","message":"::: Post with id [690140fca7c75fdb77b1cc58] successfully deleted :::","service":"post-service","timestamp":"2025-10-28T22:18:09.954Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-28T22:21:29.439Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-28T22:21:44.499Z"}
+{"level":"info","message":"::: Post created successfully: [690141f8a7c75fdb77b1cc5f] :::","service":"post-service","timestamp":"2025-10-28T22:21:44.500Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-28T22:21:51.974Z"}
+{"level":"info","message":"::: Event published: [post.deleted] :::","service":"post-service","timestamp":"2025-10-28T22:22:14.165Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-28T22:22:14.169Z"}
+{"level":"info","message":"::: Post with id [690141f8a7c75fdb77b1cc5f] successfully deleted :::","service":"post-service","timestamp":"2025-10-28T22:22:14.170Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-28T22:41:17.102Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-28T22:41:34.598Z"}
+{"level":"info","message":"::: Post created successfully: [6901469ea7c75fdb77b1cc66] :::","service":"post-service","timestamp":"2025-10-28T22:41:34.599Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-28T22:41:43.292Z"}
+{"level":"info","message":"::: Event published: [post.deleted] :::","service":"post-service","timestamp":"2025-10-28T22:41:59.263Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-28T22:41:59.265Z"}
+{"level":"info","message":"::: Post with id [6901469ea7c75fdb77b1cc66] successfully deleted :::","service":"post-service","timestamp":"2025-10-28T22:41:59.268Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-29T10:49:00.927Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-29T10:50:27.054Z"}
+{"level":"info","message":"::: Post created successfully: [6901f172a7c75fdb77b1cc6d] :::","service":"post-service","timestamp":"2025-10-29T10:50:28.761Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-29T10:57:05.160Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-29T11:01:04.900Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-29T11:01:20.629Z"}
+{"level":"info","message":"::: Post created successfully: [6901f400a7c75fdb77b1cc73] :::","service":"post-service","timestamp":"2025-10-29T11:01:20.630Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-29T11:01:34.293Z"}
+{"level":"info","message":"::: Post created successfully: [6901f4efa7c75fdb77b1cc77] :::","service":"post-service","timestamp":"2025-10-29T11:05:19.501Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-29T11:05:29.668Z"}
+{"level":"info","message":"::: Event published: [post.deleted] :::","service":"post-service","timestamp":"2025-10-29T11:06:26.578Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-29T11:06:28.433Z"}
+{"level":"info","message":"::: Post with id [6901f4efa7c75fdb77b1cc77] successfully deleted :::","service":"post-service","timestamp":"2025-10-29T11:06:28.710Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-29T11:11:46.367Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T10:40:19.238Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-31T10:40:19.368Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T10:40:29.670Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T10:51:21.608Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-31T10:51:21.694Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T10:51:32.825Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T10:58:16.133Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-31T10:58:16.217Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T10:58:27.269Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:02:26.711Z"}
+{"level":"info","message":"::: Connected to rabbit mq :::","service":"post-service","timestamp":"2025-10-31T11:02:26.799Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:02:40.080Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:16:38.933Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:16:48.569Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:17:40.049Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:17:48.667Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:17:57.487Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:18:11.476Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:18:18.969Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:18:25.782Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:18:32.941Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:18:34.804Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:18:58.376Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:19:07.384Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:19:12.476Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:19:19.349Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:20:12.740Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:20:24.592Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:20:30.285Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:20:37.029Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:22:31.558Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:22:45.024Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:22:51.432Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:22:53.466Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:23:04.802Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:23:11.590Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:23:32.643Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:23:40.077Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:23:45.191Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:23:55.199Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:23:59.663Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:24:05.182Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:24:12.040Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:24:26.866Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:24:34.247Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:24:46.800Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:25:04.787Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:25:38.358Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:25:38.441Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:25:45.315Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:26:30.821Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:26:30.857Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:26:39.147Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:27:14.317Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:27:14.380Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:27:21.142Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:27:34.753Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:27:34.813Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:27:44.771Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:27:54.438Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:27:54.499Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:28:01.132Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:28:10.213Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:28:10.309Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:28:11.919Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:28:39.730Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:28:39.794Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:28:48.882Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:30:50.732Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:30:50.791Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:31:01.441Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:31:28.998Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:31:29.066Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:31:36.187Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:31:43.817Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:31:43.879Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:31:50.660Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:31:55.237Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:31:55.314Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:32:03.607Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:32:03.793Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:32:08.428Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:32:18.163Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:32:18.226Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:32:24.870Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:32:27.414Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:32:27.476Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:32:34.418Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:32:43.820Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:32:43.938Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:32:45.587Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:32:53.465Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:32:53.558Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:32:57.217Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:32:57.254Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:33:11.203Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:33:11.294Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:33:17.977Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:33:21.377Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:33:21.530Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:33:28.241Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:33:37.449Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:33:37.513Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:33:44.615Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:34:14.637Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:34:14.701Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:34:23.790Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:34:34.229Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:34:34.291Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:34:40.993Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:41:10.285Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:41:10.346Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:41:56.057Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:41:56.159Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:42:03.969Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:42:23.329Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:42:23.434Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:42:29.564Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:42:29.630Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:42:37.776Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:42:49.482Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:42:49.583Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:43:07.733Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:43:48.852Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:43:48.913Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:44:00.012Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:44:56.904Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:44:56.966Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:45:06.130Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:45:51.275Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:45:51.338Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:45:58.017Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:46:53.504Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:46:53.569Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:47:00.428Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:49:43.816Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:49:43.883Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:49:55.827Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:50:59.505Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:50:59.545Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:51:08.795Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:51:27.825Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:51:27.887Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:51:35.948Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:51:36.021Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:51:44.108Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:52:17.445Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:52:17.508Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:52:27.660Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:53:11.746Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:53:11.956Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:53:20.479Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:53:39.543Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:53:39.664Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:53:48.915Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T11:58:00.367Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T11:58:00.428Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T11:58:45.282Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T12:34:52.741Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T12:34:52.821Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T12:34:59.412Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T12:41:07.287Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T12:41:07.376Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T12:41:18.256Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T13:53:55.031Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T13:53:55.153Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T13:54:01.911Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-31T14:00:13.776Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-31T14:01:52.629Z"}
+{"level":"error","message":"::: Uncaught exception has been fired with error: Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message \"PRECONDITION_FAILED - inequivalent arg 'durable' for exchange 'facebook_events' in vhost '/': received 'true' but current is 'false'\" :::","service":"post-service","timestamp":"2025-10-31T14:01:52.674Z"}
+{"level":"info","message":"::: Post with id [6901f400a7c75fdb77b1cc73] successfully deleted :::","service":"post-service","timestamp":"2025-10-31T14:01:52.678Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T14:03:51.926Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T14:03:52.355Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T14:04:05.669Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T14:10:12.711Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T14:10:12.806Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T14:10:14.686Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T14:11:36.419Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T14:11:36.464Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T14:11:45.458Z"}
+{"level":"info","message":"::: Post service running on port [50003] :::","service":"post-service","timestamp":"2025-10-31T14:19:22.968Z"}
+{"level":"info","message":"::: Connected to RabbitMQ :::","service":"post-service","timestamp":"2025-10-31T14:19:23.061Z"}
+{"level":"info","message":"::: Database connected successfully :::","service":"post-service","timestamp":"2025-10-31T14:19:29.558Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-31T14:24:26.249Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-31T14:24:37.658Z"}
+{"level":"error","message":"::: Uncaught exception has been fired with error: Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message \"PRECONDITION_FAILED - inequivalent arg 'durable' for exchange 'facebook_events' in vhost '/': received 'true' but current is 'false'\" :::","service":"post-service","timestamp":"2025-10-31T14:24:37.668Z"}
+{"level":"info","message":"::: Post created successfully: [6904c6a5c2716a950f8b9c12] :::","service":"post-service","timestamp":"2025-10-31T14:24:37.805Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-31T14:45:14.187Z"}
+{"level":"info","message":"::: Cleared [1] cached pages for user [7a7d813264bcfbd4a6d9150e] :::","service":"post-service","timestamp":"2025-10-31T14:46:33.540Z"}
+{"level":"info","message":"::: Post with id [6904c6a5c2716a950f8b9c12] successfully deleted :::","service":"post-service","timestamp":"2025-10-31T14:46:33.694Z"}
+{"level":"info","message":"::: Successfully fetched all posts :::","service":"post-service","timestamp":"2025-10-31T14:46:55.790Z"}

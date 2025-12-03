@@ -1,0 +1,708 @@
+{"level":"info","message":"::: Response received from [auth-service]: [500] :::","service":"api-gateway","timestamp":"2025-10-07T11:54:37.619Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [401] :::","service":"api-gateway","timestamp":"2025-10-07T12:04:31.984Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [401] :::","service":"api-gateway","timestamp":"2025-10-07T12:11:25.974Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-07T12:13:48.934Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-07T12:13:48.944Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-07T12:13:48.945Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [401] :::","service":"api-gateway","timestamp":"2025-10-07T12:14:02.559Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-07T12:15:37.183Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-07T12:15:37.197Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-07T12:15:37.200Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [404] :::","service":"api-gateway","timestamp":"2025-10-07T12:16:08.425Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [404] :::","service":"api-gateway","timestamp":"2025-10-07T12:18:58.549Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-07T12:25:11.371Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-07T12:25:11.407Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-07T12:25:11.409Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-07T12:25:40.427Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-07T12:25:40.435Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-07T12:25:40.437Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-07T12:26:05.102Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-07T12:28:45.083Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-07T12:30:33.856Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-07T12:31:22.830Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-07T12:35:03.857Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-07T12:35:30.154Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-07T12:42:27.591Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-07T13:38:11.574Z"}
+{"level":"error","message":"::: Proxy error: socket hang up :::","service":"api-gateway","timestamp":"2025-10-07T13:39:12.391Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-07T13:40:00.247Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-09T11:17:45.704Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-09T11:18:39.415Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-09T11:21:48.317Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-09T14:22:58.441Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-09T14:27:26.798Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-09T14:29:26.421Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-09T15:22:46.991Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-13T10:59:24.379Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-13T11:52:32.345Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [401] :::","service":"api-gateway","timestamp":"2025-10-13T11:56:04.097Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-13T12:18:01.040Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-13T13:55:19.608Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-13T14:00:37.199Z"}
+{"level":"error","message":"Unexpected end of JSON input","service":"api-gateway","timestamp":"2025-10-13T14:01:01.198Z"}
+{"level":"error","message":"SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at createStrictSyntaxError (C:\\Users\\theop\\Desktop\\BACKEND\\social-media-microservices\\api-gateway\\node_modules\\body-parser\\lib\\types\\json.js:156:10)\n    at parse (C:\\Users\\theop\\Desktop\\BACKEND\\social-media-microservices\\api-gateway\\node_modules\\body-parser\\lib\\types\\json.js:71:15)\n    at C:\\Users\\theop\\Desktop\\BACKEND\\social-media-microservices\\api-gateway\\node_modules\\body-parser\\lib\\read.js:123:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)\n    at invokeCallback (C:\\Users\\theop\\Desktop\\BACKEND\\social-media-microservices\\api-gateway\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\theop\\Desktop\\BACKEND\\social-media-microservices\\api-gateway\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\theop\\Desktop\\BACKEND\\social-media-microservices\\api-gateway\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:525:35)\n    at endReadableNT (node:internal/streams/readable:1358:12)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)","service":"api-gateway","timestamp":"2025-10-13T14:01:01.199Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-13T14:03:12.140Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-13T14:03:18.894Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-13T14:06:17.462Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-13T14:08:37.743Z"}
+{"level":"error","message":"::: Proxy error: read ECONNRESET :::","service":"api-gateway","timestamp":"2025-10-13T14:11:04.620Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-13T14:11:26.627Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-13T14:12:08.270Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-13T14:13:12.679Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-13T14:14:30.107Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-13T14:23:43.965Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-13T14:24:56.024Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-13T14:25:10.726Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [401] :::","service":"api-gateway","timestamp":"2025-10-13T14:26:19.479Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [401] :::","service":"api-gateway","timestamp":"2025-10-13T14:30:39.389Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [401] :::","service":"api-gateway","timestamp":"2025-10-13T14:35:04.449Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-13T14:41:09.110Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-13T14:41:20.757Z"}
+{"level":"error","message":"::: Proxy error: socket hang up :::","service":"api-gateway","timestamp":"2025-10-13T14:43:13.328Z"}
+{"level":"error","message":"::: Proxy error: connect ECONNREFUSED 127.0.0.1:50001 :::","service":"api-gateway","timestamp":"2025-10-13T14:44:21.771Z"}
+{"level":"error","message":"::: Proxy error: socket hang up :::","service":"api-gateway","timestamp":"2025-10-13T14:44:41.237Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-13T14:50:29.964Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-15T09:48:17.390Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-15T09:50:30.282Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-15T09:52:03.753Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T10:12:32.327Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-16T10:13:35.545Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T10:15:22.109Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-16T10:16:06.714Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-16T10:18:09.786Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-16T10:20:20.867Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-16T10:20:58.931Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T10:21:47.380Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T10:24:44.393Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T10:27:12.126Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:30:14.937Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:30:14.943Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:30:14.944Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:30:48.437Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:30:48.621Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:30:48.623Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:31:00.182Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:31:00.191Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:31:00.192Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:31:08.477Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:31:08.487Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:31:08.544Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:32:17.599Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:32:17.610Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:32:17.611Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:33:46.627Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:33:46.633Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:33:46.634Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:36:41.822Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:36:41.833Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:36:41.834Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:37:05.854Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:37:05.860Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:37:05.860Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:38:18.251Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:38:18.261Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:38:18.262Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:40:19.754Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:40:19.771Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:40:19.775Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:40:40.643Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:40:40.650Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:40:40.651Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:42:39.065Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:42:39.072Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:42:39.073Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:42:46.989Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:42:46.995Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:42:46.996Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:43:20.817Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:43:20.835Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:43:20.836Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:43:28.199Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:43:28.204Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:43:28.205Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:55:25.693Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:55:25.699Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:55:25.700Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:55:47.642Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:55:47.654Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:55:47.656Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:56:01.448Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:56:01.455Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:56:01.456Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:58:25.778Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:58:25.787Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:58:25.788Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:58:53.374Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:58:53.382Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:58:53.386Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T18:59:05.030Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T18:59:05.039Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T18:59:05.042Z"}
+{"level":"info","message":"::: Registered proxy for ","service":"api-gateway","timestamp":"2025-10-16T19:00:59.383Z"}
+{"level":"info","message":"::: Registered proxy for ","service":"api-gateway","timestamp":"2025-10-16T19:00:59.391Z"}
+{"level":"info","message":"::: Registered proxy for ","service":"api-gateway","timestamp":"2025-10-16T19:00:59.394Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:00:59.407Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:00:59.410Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:00:59.411Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:01:36.703Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:01:36.710Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:01:36.714Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:01:36.727Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:01:36.736Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:01:36.737Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:07:04.787Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:07:04.793Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:07:04.795Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:07:04.809Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:07:04.811Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:07:04.831Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:07:34.565Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:07:34.573Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:07:34.575Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:07:34.588Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:07:34.590Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:07:34.591Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:07:55.320Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:07:55.331Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:07:55.333Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:07:55.349Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:07:55.351Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:07:55.352Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:08:25.437Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:08:25.445Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:08:25.447Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:08:25.458Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:08:25.461Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:08:25.462Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:10:16.315Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:10:16.323Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:10:16.325Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:10:16.345Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:10:16.350Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:10:16.351Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:11:39.864Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:11:39.877Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:11:39.879Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:11:39.933Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:11:39.937Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:11:39.940Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:12:02.416Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:12:02.434Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:12:02.438Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:12:02.450Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:12:02.453Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:12:02.455Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:14:07.215Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:14:07.224Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:14:07.227Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:14:07.243Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:14:07.246Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:14:07.247Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:14:25.522Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:14:25.529Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:14:25.531Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:14:25.544Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:14:25.546Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:14:25.547Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:14:43.649Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:14:43.662Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:14:43.664Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:14:43.719Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:14:43.737Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:14:43.741Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:14:56.722Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:14:56.733Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:14:56.737Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:14:56.753Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:14:56.755Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:14:56.756Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:15:10.178Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:15:10.185Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:15:10.188Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:15:10.212Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:15:10.213Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:15:10.214Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:18:05.756Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:18:05.767Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:18:05.770Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:18:05.792Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:18:05.797Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:18:05.799Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:20:00.689Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:20:00.697Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:20:00.700Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:20:00.713Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:20:00.716Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:20:00.717Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:22:49.251Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:22:49.262Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:22:49.267Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:22:49.280Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:22:49.284Z"}
+{"level":"info","message":"::: POST service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-16T19:22:49.288Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:22:49.290Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:23:54.713Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:23:54.720Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:23:54.723Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:23:54.739Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:23:54.741Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-16T19:23:54.742Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:23:54.743Z"}
+{"level":"error","message":"::: No valid token is provided :::","service":"api-gateway","timestamp":"2025-10-16T19:29:35.534Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:30:17.032Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:30:17.040Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:30:17.042Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:30:17.071Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:30:17.073Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-16T19:30:17.075Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:30:17.076Z"}
+{"level":"error","message":"::: No valid token is provided :::","service":"api-gateway","timestamp":"2025-10-16T19:30:22.732Z"}
+{"level":"error","message":"::: Invalid token with error [TokenExpiredError: jwt expired] :::","service":"api-gateway","timestamp":"2025-10-16T19:32:41.543Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:33:44.392Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:33:44.399Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:33:44.403Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:33:44.421Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:33:44.423Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-16T19:33:44.424Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:33:44.425Z"}
+{"level":"error","message":"::: Invalid token with error [TokenExpiredError: jwt expired] :::","service":"api-gateway","timestamp":"2025-10-16T19:33:47.719Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T19:35:50.333Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-16T19:36:12.797Z"}
+{"level":"error","message":"::: Invalid token with error [TokenExpiredError: jwt expired] :::","service":"api-gateway","timestamp":"2025-10-16T19:46:08.380Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T19:50:04.736Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-16T19:50:23.591Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:55:45.615Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:55:45.625Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:55:45.628Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:55:45.648Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:55:45.650Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-16T19:55:45.651Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:55:45.655Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-16T19:57:11.915Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T19:59:51.174Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T19:59:51.182Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T19:59:51.185Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T19:59:51.205Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T19:59:51.208Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-16T19:59:51.209Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T19:59:51.209Z"}
+{"level":"error","message":"::: Invalid token with error [TokenExpiredError: jwt expired] :::","service":"api-gateway","timestamp":"2025-10-16T21:17:26.952Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T21:17:42.488Z"}
+{"level":"info","message":"::: Response received from [post-service]: [404] :::","service":"api-gateway","timestamp":"2025-10-16T21:21:22.543Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-16T21:26:38.206Z"}
+{"level":"error","message":"::: Invalid token with error [TokenExpiredError: jwt expired] :::","service":"api-gateway","timestamp":"2025-10-16T21:28:04.206Z"}
+{"level":"error","message":"::: Invalid token with error [TokenExpiredError: jwt expired] :::","service":"api-gateway","timestamp":"2025-10-16T21:28:48.179Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T21:32:58.699Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-16T21:33:22.255Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T21:33:30.299Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T21:37:48.305Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T21:42:49.397Z"}
+{"level":"error","message":"::: Invalid token with error [TokenExpiredError: jwt expired] :::","service":"api-gateway","timestamp":"2025-10-16T21:44:07.032Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T21:45:33.987Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T21:46:44.908Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T21:46:44.920Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T21:46:44.925Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T21:46:44.946Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T21:46:44.949Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-16T21:46:44.950Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T21:46:44.952Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T21:46:52.824Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T21:47:45.983Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T21:50:08.169Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T21:50:08.178Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T21:50:08.181Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T21:50:08.200Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T21:50:08.202Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-16T21:50:08.203Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T21:50:08.205Z"}
+{"level":"error","message":"::: Proxy error: Invalid value \"undefined\" for header \"x-user-id\" :::","service":"api-gateway","timestamp":"2025-10-16T21:50:31.286Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-16T21:52:19.324Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-16T21:52:19.333Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-16T21:52:19.335Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-16T21:52:19.350Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-16T21:52:19.351Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-16T21:52:19.352Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-16T21:52:19.353Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T21:52:44.676Z"}
+{"level":"info","message":"::: Response received from [post-service]: [500] :::","service":"api-gateway","timestamp":"2025-10-16T21:54:12.068Z"}
+{"level":"info","message":"::: Response received from [post-service]: [500] :::","service":"api-gateway","timestamp":"2025-10-16T21:55:16.691Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T21:57:19.251Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T21:58:16.490Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T21:58:28.657Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T21:58:35.052Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T21:58:47.875Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T21:59:34.233Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T21:59:41.166Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T21:59:48.585Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:01:01.533Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:01:16.758Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:12:25.955Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:12:46.977Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:13:04.880Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:13:42.327Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:13:50.993Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:13:57.371Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:14:31.434Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:14:38.401Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:14:48.437Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:14:51.972Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:14:54.408Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:14:56.491Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:14:58.245Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:15:01.082Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:15:02.915Z"}
+{"level":"error","message":"::: Invalid token with error [TokenExpiredError: jwt expired] :::","service":"api-gateway","timestamp":"2025-10-16T22:18:01.153Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:18:19.139Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-16T22:18:23.623Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:19:45.575Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:20:07.283Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:22:15.702Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:22:27.833Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:23:18.938Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:24:03.978Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:25:48.014Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:26:03.458Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:26:07.226Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:26:09.408Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:26:48.518Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:27:03.247Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:27:12.728Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:27:22.674Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:27:25.533Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:27:58.704Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:28:04.050Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:28:07.117Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:36:08.017Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:45:40.015Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:45:45.830Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:46:38.664Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:47:20.401Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:47:29.075Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:47:35.075Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:47:57.729Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:48:02.084Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:49:13.937Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:50:48.550Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:51:29.917Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:55:07.122Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-16T22:55:17.310Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:58:48.646Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T22:58:55.103Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T23:01:39.421Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-16T23:01:47.469Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:03:38.668Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-17T10:08:10.048Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:08:20.123Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:08:31.052Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:08:34.323Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:08:36.915Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:08:39.390Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-17T10:08:56.247Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:09:03.837Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:09:12.029Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:09:19.492Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:09:25.035Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:09:28.486Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:09:38.976Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:09:42.435Z"}
+{"level":"error","message":"::: Proxy error: connect ECONNREFUSED 127.0.0.1:50003 :::","service":"api-gateway","timestamp":"2025-10-17T10:25:11.289Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:25:49.476Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:25:56.458Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:26:24.134Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:26:33.671Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:26:39.473Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-17T10:27:00.467Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:27:58.378Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:28:04.014Z"}
+{"level":"error","message":"::: Invalid token with error [TokenExpiredError: jwt expired] :::","service":"api-gateway","timestamp":"2025-10-17T10:46:24.078Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:46:35.820Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-17T10:46:40.208Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:47:18.503Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:47:25.815Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:48:49.710Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:49:10.072Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:49:12.974Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:49:21.069Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:49:49.780Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:53:34.564Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:53:38.308Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:53:42.757Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:53:50.947Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:53:57.182Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:54:03.227Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-17T10:54:47.211Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:55:10.848Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:56:06.424Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T10:56:18.350Z"}
+{"level":"error","message":"::: Proxy error: connect ECONNREFUSED 127.0.0.1:50003 :::","service":"api-gateway","timestamp":"2025-10-17T11:01:10.056Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T11:01:28.272Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T11:01:42.037Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T11:01:51.629Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T11:08:07.817Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-17T11:08:26.192Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T11:10:07.512Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T11:10:25.710Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T11:10:35.680Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-17T11:15:39.811Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-17T12:10:26.100Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-17T12:10:26.464Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-17T12:10:26.821Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-17T12:10:27.006Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-17T12:10:27.069Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-17T12:10:27.156Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-17T12:10:27.270Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-17T15:22:58.428Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-17T15:22:58.442Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-17T15:22:58.454Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-17T15:22:58.486Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-17T15:22:58.490Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-17T15:22:58.493Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-17T15:22:58.498Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-17T15:24:19.093Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-17T15:24:19.110Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-17T15:24:19.125Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-17T15:24:19.165Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-17T15:24:19.169Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-17T15:24:19.170Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-17T15:24:19.172Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-17T15:26:47.090Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-17T15:26:47.103Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-17T15:26:47.106Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-17T15:26:47.121Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-17T15:26:47.123Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-17T15:26:47.124Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-17T15:26:47.127Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-17T15:31:46.248Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-17T15:31:46.258Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-17T15:31:46.261Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-17T15:31:46.279Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-17T15:31:46.283Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-17T15:31:46.284Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-17T15:31:46.285Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-17T15:31:56.944Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-17T15:31:56.952Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-17T15:31:56.956Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-17T15:31:56.987Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-17T15:31:56.989Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-17T15:31:56.990Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-17T15:31:56.991Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-17T15:32:10.972Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-17T15:32:10.983Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-17T15:32:10.988Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-17T15:32:11.011Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-17T15:32:11.014Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-17T15:32:11.016Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-17T15:32:11.018Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-17T15:32:26.004Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-17T15:32:26.014Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-17T15:32:26.017Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-17T15:32:26.030Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-17T15:32:26.032Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-17T15:32:26.033Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-17T15:32:26.034Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-17T15:33:29.267Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-17T15:33:29.285Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-17T15:33:29.290Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-17T15:33:29.312Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-17T15:33:29.319Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-17T15:33:29.320Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-17T15:33:29.322Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-17T15:33:45.952Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-17T15:33:45.997Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-17T15:33:46.001Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-17T15:33:46.035Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-17T15:33:46.037Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-17T15:33:46.039Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-17T15:33:46.044Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-23T12:57:47.081Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-23T12:57:47.200Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-23T12:57:47.271Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-23T12:57:47.363Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-23T12:57:47.378Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-23T12:57:47.382Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-23T12:57:47.478Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-23T13:21:48.104Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-23T13:21:48.114Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-23T13:21:48.120Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-23T13:21:48.147Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-23T13:21:48.149Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-23T13:21:48.152Z"}
+{"level":"info","message":"::: Media service is running on [http://localhost:50006] :::","service":"api-gateway","timestamp":"2025-10-23T13:21:48.153Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-23T13:21:48.154Z"}
+{"level":"error","message":"::: Invalid token with error [TokenExpiredError: jwt expired] :::","service":"api-gateway","timestamp":"2025-10-23T13:23:58.253Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T13:24:26.115Z"}
+{"level":"info","message":"::: Response received from [media-service]: [500] :::","service":"api-gateway","timestamp":"2025-10-23T13:25:03.130Z"}
+{"level":"info","message":"::: Response received from [media-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-23T13:29:35.217Z"}
+{"level":"info","message":"::: Response received from [media-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-23T13:30:52.994Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T13:32:20.042Z"}
+{"level":"info","message":"::: Response received from [media-service]: [500] :::","service":"api-gateway","timestamp":"2025-10-23T13:39:35.387Z"}
+{"level":"info","message":"::: Response received from [media-service]: [500] :::","service":"api-gateway","timestamp":"2025-10-23T13:41:26.416Z"}
+{"level":"error","message":"::: Invalid token with error [TokenExpiredError: jwt expired] :::","service":"api-gateway","timestamp":"2025-10-23T13:54:57.689Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T13:55:10.713Z"}
+{"level":"info","message":"::: Response received from [media-service]: [500] :::","service":"api-gateway","timestamp":"2025-10-23T13:55:15.738Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T13:55:44.964Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T13:59:29.935Z"}
+{"level":"info","message":"::: Response received from [media-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-23T14:01:54.880Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T14:04:39.765Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T14:25:15.381Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T14:25:24.933Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T14:26:07.292Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-23T14:38:48.173Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-23T14:40:14.298Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-23T14:41:28.804Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-23T14:44:56.543Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-23T14:45:33.844Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-23T14:46:24.705Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-23T14:48:43.025Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-23T14:49:14.257Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-23T14:49:19.091Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T14:49:32.064Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T14:49:59.696Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T14:50:08.295Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T14:50:11.896Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T14:50:15.218Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T14:50:45.665Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-23T14:50:56.645Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T14:51:02.870Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-23T14:51:07.329Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-28T18:31:18.518Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-28T18:31:18.553Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-28T18:31:18.579Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-28T18:31:18.641Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-28T18:31:18.728Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-28T18:31:18.756Z"}
+{"level":"info","message":"::: Media service is running on [http://localhost:50006] :::","service":"api-gateway","timestamp":"2025-10-28T18:31:18.816Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-28T18:31:18.847Z"}
+{"level":"error","message":"::: Invalid token with error [TokenExpiredError: jwt expired] :::","service":"api-gateway","timestamp":"2025-10-28T18:36:01.159Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T18:36:18.257Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T18:36:25.962Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T18:37:50.767Z"}
+{"level":"info","message":"::: Response received from [media-service]: [500] :::","service":"api-gateway","timestamp":"2025-10-28T18:38:03.890Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T18:38:24.250Z"}
+{"level":"error","message":"::: Invalid token with error [TokenExpiredError: jwt expired] :::","service":"api-gateway","timestamp":"2025-10-28T19:30:40.774Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T19:30:57.606Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T19:31:03.572Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T19:33:43.463Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T19:34:11.375Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T19:35:19.594Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:06:37.982Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:06:46.474Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-28T21:07:02.546Z"}
+{"level":"info","message":"::: Response received from [post-service]: [400] :::","service":"api-gateway","timestamp":"2025-10-28T21:08:32.278Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:08:56.151Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:09:01.081Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:09:24.621Z"}
+{"level":"error","message":"::: Proxy error: connect ECONNREFUSED 127.0.0.1:50003 :::","service":"api-gateway","timestamp":"2025-10-28T21:12:23.579Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:12:37.007Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:13:27.748Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-28T21:13:57.833Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:14:07.207Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:14:24.646Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:16:37.603Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:16:58.891Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-28T21:17:46.857Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:18:04.361Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:18:37.028Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:23:53.671Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:45:08.898Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:45:18.386Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-28T21:47:08.430Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:47:27.259Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:47:45.159Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:47:50.975Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:49:56.074Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:51:49.702Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-28T21:52:13.840Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:52:23.979Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:52:41.803Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:53:18.845Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:59:25.351Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T21:59:59.943Z"}
+{"level":"error","message":"::: Invalid token with error [TokenExpiredError: jwt expired] :::","service":"api-gateway","timestamp":"2025-10-28T22:16:49.125Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T22:16:57.463Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T22:17:03.086Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-28T22:17:32.654Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T22:17:50.284Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T22:18:09.958Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T22:21:29.528Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-28T22:21:44.502Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T22:21:51.978Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T22:22:14.183Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T22:41:17.109Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T22:41:21.972Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-28T22:41:34.601Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T22:41:43.296Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T22:41:59.273Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-28T22:43:41.063Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T10:10:00.882Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T10:10:11.329Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T10:10:16.878Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T10:10:20.955Z"}
+{"level":"error","message":"::: Proxy error: request entity too large :::","service":"api-gateway","timestamp":"2025-10-29T10:11:00.508Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-29T10:13:29.683Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-29T10:13:29.698Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-29T10:13:29.735Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-29T10:13:29.771Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-29T10:13:29.779Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-29T10:13:29.782Z"}
+{"level":"info","message":"::: Media service is running on [http://localhost:50006] :::","service":"api-gateway","timestamp":"2025-10-29T10:13:29.787Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-29T10:13:29.791Z"}
+{"level":"error","message":"::: Proxy error: request entity too large :::","service":"api-gateway","timestamp":"2025-10-29T10:14:42.194Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-29T10:15:56.011Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-29T10:15:56.025Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-29T10:15:56.032Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-29T10:15:56.055Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-29T10:15:56.057Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-29T10:15:56.058Z"}
+{"level":"info","message":"::: Media service is running on [http://localhost:50006] :::","service":"api-gateway","timestamp":"2025-10-29T10:15:56.059Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-29T10:15:56.060Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T10:19:00.307Z"}
+{"level":"error","message":"::: Invalid token with error [TokenExpiredError: jwt expired] :::","service":"api-gateway","timestamp":"2025-10-29T10:44:33.032Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T10:44:43.286Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T10:44:52.510Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T10:49:00.943Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-29T10:50:29.268Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T10:57:05.164Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T10:57:42.767Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T11:01:04.904Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T11:01:08.777Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-29T11:01:20.633Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T11:01:34.297Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T11:02:05.760Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-29T11:05:19.505Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T11:05:29.673Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T11:05:47.599Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T11:06:29.965Z"}
+{"level":"error","message":"::: Proxy error: request entity too large :::","service":"api-gateway","timestamp":"2025-10-29T11:08:53.280Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-29T11:11:46.372Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-31T10:26:21.761Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-31T10:26:21.773Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-31T10:26:21.781Z"}
+{"level":"info","message":"::: Registered proxy for [/search] => http://localhost:90001 :::","service":"api-gateway","timestamp":"2025-10-31T10:26:21.786Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-31T10:26:21.818Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-31T10:26:21.822Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-31T10:26:21.831Z"}
+{"level":"info","message":"::: Media service is running on [http://localhost:50006] :::","service":"api-gateway","timestamp":"2025-10-31T10:26:21.833Z"}
+{"level":"info","message":"::: Search service is running on [http://localhost:90001] :::","service":"api-gateway","timestamp":"2025-10-31T10:26:21.834Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-31T10:26:21.837Z"}
+{"level":"info","message":"::: Registered proxy for [/auth] => http://localhost:50001 :::","service":"api-gateway","timestamp":"2025-10-31T10:26:41.057Z"}
+{"level":"info","message":"::: Registered proxy for [/post] => http://localhost:50003 :::","service":"api-gateway","timestamp":"2025-10-31T10:26:41.065Z"}
+{"level":"info","message":"::: Registered proxy for [/media] => http://localhost:50006 :::","service":"api-gateway","timestamp":"2025-10-31T10:26:41.068Z"}
+{"level":"info","message":"::: Registered proxy for [/search] => http://localhost:90001 :::","service":"api-gateway","timestamp":"2025-10-31T10:26:41.073Z"}
+{"level":"info","message":"::: API Gateway is running on port [50000] :::","service":"api-gateway","timestamp":"2025-10-31T10:26:41.096Z"}
+{"level":"info","message":"::: Auth service is running on [http://localhost:50001] :::","service":"api-gateway","timestamp":"2025-10-31T10:26:41.098Z"}
+{"level":"info","message":"::: Post service is running on [http://localhost:50003] :::","service":"api-gateway","timestamp":"2025-10-31T10:26:41.099Z"}
+{"level":"info","message":"::: Media service is running on [http://localhost:50006] :::","service":"api-gateway","timestamp":"2025-10-31T10:26:41.100Z"}
+{"level":"info","message":"::: Search service is running on [http://localhost:90001] :::","service":"api-gateway","timestamp":"2025-10-31T10:26:41.101Z"}
+{"level":"info","message":"::: Redis service is running on [redis://localhost:6379] :::","service":"api-gateway","timestamp":"2025-10-31T10:26:41.104Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-31T13:59:47.823Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-31T14:00:13.800Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-31T14:01:22.275Z"}
+{"level":"info","message":"::: Response received from [media-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-31T14:01:42.349Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-31T14:01:52.684Z"}
+{"level":"info","message":"::: Response received from [auth-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-31T14:24:12.062Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-31T14:24:26.264Z"}
+{"level":"info","message":"::: Response received from [post-service]: [201] :::","service":"api-gateway","timestamp":"2025-10-31T14:24:37.811Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-31T14:45:14.257Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-31T14:46:33.733Z"}
+{"level":"info","message":"::: Response received from [post-service]: [200] :::","service":"api-gateway","timestamp":"2025-10-31T14:46:55.796Z"}
