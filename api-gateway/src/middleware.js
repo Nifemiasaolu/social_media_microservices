@@ -29,9 +29,7 @@ export const validateToken = async (req, res, next) => {
         message: "Invalid token! Kindly login to continue.",
       });
     }
-    console.log(`==== Logged in user: ${JSON.stringify(user)} ===`);
     req.user = user;
-    console.log(`=== Authorized req.user: ${JSON.stringify(req.user)} ====`);
     next();
   });
 };

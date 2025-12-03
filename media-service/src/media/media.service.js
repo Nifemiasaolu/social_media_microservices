@@ -30,7 +30,6 @@ export const uploadFile = async ({ file, userId }) => {
     const { originalname, mimetype, buffer } = file;
 
     const uploadedResult = await uploadToCloudinary(file);
-    console.log(`=== Uploaded Result: ${JSON.stringify(uploadedResult)} ===`);
 
     const savedImage = new Media({
       publicId: uploadedResult.public_id,
@@ -67,7 +66,6 @@ export const uploadMultipleFiles = async ({ files, userId }) => {
       const { originalname, mimetype, buffer } = file;
 
       const uploadedResult = await uploadToCloudinary(file);
-      console.log(`=== Uploaded Result: ${JSON.stringify(uploadedResult)} ===`);
 
       const savedImage = new Media({
         publicId: uploadedResult.public_id,

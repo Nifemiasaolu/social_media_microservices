@@ -180,8 +180,6 @@ export const deletePost = async ({ id, userId }) => {
       throw new NotFoundError("Post not found");
     }
 
-    console.log(`=== Post deleted: ${JSON.stringify(post)} ===`);
-
     // Invalidate all cached post pages for this user && Publish Event.
     await Promise.allSettled([
       cacheService.delete({ key: cacheKey }),

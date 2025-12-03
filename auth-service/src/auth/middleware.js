@@ -46,7 +46,6 @@ const secureRoute = async (req, res, next) => {
     });
   }
 
-  console.log(`=== Bearer token: ${JSON.stringify(bearerToken)} ===`);
   const token = bearerToken.split(" ")[1];
   if (!token) {
     return res.status(UN_AUTHORISED).json({

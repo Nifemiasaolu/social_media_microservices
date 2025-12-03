@@ -98,8 +98,6 @@ export const loginUser = async ({ params }) => {
       throw new BadRequestError("Invalid credentials. Please try again.");
     }
 
-    console.log(`=== Existing user: ${JSON.stringify(existingUser)} ===`);
-
     const [accessToken, refreshToken] = await Promise.all([
       generateToken(userPayload(existingUser), "access"),
       generateToken(userPayload(existingUser), "refresh"),
@@ -185,10 +183,8 @@ export const generateRefreshToken = async ({ refreshToken }) => {
     if (validateSchema.error) {
       throw new BadRequestError(validateSchema.error.details[0].message);
     }
-    console.log(`=== Incoming Refresh token: ${refreshToken} ===`);
 
     const payload = await verifyToken(refreshToken, "refresh");
-
     if (!payload) {
       logger.error(`::: Invalid refresh-token :::`);
       throw new BadRequestError("Invalid refresh-token");

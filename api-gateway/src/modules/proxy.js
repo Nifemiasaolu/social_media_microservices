@@ -20,8 +20,6 @@ export const registerProxies = (server) => {
   const services = processServicesFromEnv();
 
   Object.entries(services).forEach(([route, target]) => {
-    console.log(`==== Route: ${route} ===`);
-    console.log(`==== Target: ${target} ===`);
     if (!target) {
       logger.error(`::: No target URL defined for service [${route}]`);
       return;
